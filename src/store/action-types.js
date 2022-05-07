@@ -1,0 +1,22 @@
+// user
+export const SET_USER_INFO = "GET_USER_INFO";
+export const SET_USER_TOKEN = "SET_USER_TOKEN";
+export const RESET_USER_INFO = "SET_USER_TOKEN";
+
+// setting
+export const UPDATE_SETTING = "UPDATE_SETTING";
+
+// app
+export const APP_SIDEBAR_STATE = "APP_SIDEBAR_STATE";
+export const APP_SETTING_STATE = "APP_SETTING_STATE";
+
+
+// tagsView
+export const TAGSVIEW_ADD_TAG = "TAGSVIEW_ADD_TAG";
+export const TAGSVIEW_DELETE_TAG = "TAGSVIEW_DELETE_TAG";
+export const TAGSVIEW_EMPTY_TAGLIST = "TAGSVIEW_EMPTY_TAGLIST";
+export const TAGSVIEW_CLOSE_OTHER_TAGS = "TAGSVIEW_CLOSE_OTHER_TAGS";
+
+
+// monitor
+export const BUG_ADD_BUG = "BUG_ADD_BUG";
